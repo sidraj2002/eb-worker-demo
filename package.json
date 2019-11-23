@@ -1,0 +1,14 @@
+{
+  "name": "Node.js_Worker_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.21.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Siddharth Rajguru @rajgus",
+  "license": "ISC"
+}
